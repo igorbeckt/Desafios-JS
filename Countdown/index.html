@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown</title>
+    
+    <link rel="stylesheet" href="./style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    
+    <div class="container">
+        <header>
+            <img src="./assets/top-image.svg" alt="">
+        </header>
+        
+        <div class="page">
+            <main class="main-menu">
+                <h1>Ready to launch in...</h1>
+
+                <div class="countdown">
+                    <div class="countdown-container">
+                        <p>Anos</p>
+                        <h3 class="years"></h3>
+                    </div>
+
+                    <div class="separator">
+                        <h3>:</h3>
+                    </div>
+
+                    <div class="countdown-container">
+                        <p>Meses</p>
+                        <h3 class="months"></h3>
+                    </div>
+
+                    <div class="separator">
+                        <h3>:</h3>
+                    </div>
+                    
+                    <div class="countdown-container">
+                        <p>Dias</p>
+                        <h3 class="days"></h3>
+                    </div>
+
+                    <div class="separator">
+                        <h3>:</h3>
+                    </div>
+
+                    <div class="countdown-container">
+                        <p>Horas</p>
+                        <h3 class="hours"></h3>
+                    </div>
+
+                    <div class="separator">
+                        <h3>:</h3>
+                    </div>
+
+                    <div class="countdown-container">
+                        <p>Minutos</p>
+                        <h3 class="minutes"></h3>
+                    </div>
+
+                    <div class="separator">
+                        <h3>:</h3>
+                    </div>
+
+                    <div class="countdown-container">
+                        <p>Segundos</p>
+                        <h3 class="seconds"></h3>
+                    </div>
+                </div>
+
+                <span>Inscreva-se para saber mais sobre o lançamento</span>
+                
+                <button onclick="Modal.open()">Inscreva-se</button>
+            </main>
+            
+            <aside class="lateral-image">
+                <img src="./assets/rocket.svg" alt="">
+            </aside>
+        </div>
+
+        <footer>
+            <img src="./assets/bottom-image.svg" alt="">
+        </footer>
+    
+
+        <div class="modal-overlay">
+            <form action="">
+                <fieldset>
+                    <legend>Inscreva-se</legend>
+                    
+                    <label for="name">Nome Completo</label>
+
+                    <input id="name" type="text" name="name"
+                    placeholder="Digite seu nome">
+                    
+                    <label for="email">E-mail</label>
+
+                    <input id="email" type="email" name="email"
+                    placeholder="email@seudominio.com">
+            
+                    <button type="submit" onclick="Modal.close()">Enviar</button>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+
+    <script src="./scripts.js"></script>
+    <footer>created by @igorbeckt</footer>
+</body>
+</html>
