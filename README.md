@@ -5,6 +5,8 @@ Todos os projetos incluso neste repositório:
 ## Contador
 Objetivo: criar a estrutura HTML para a página de post de um blog.
 
+<img src="https://github.com/igorbeckt/Desafios-JS/blob/master/Contador/Assets/pronto.png?raw=true">
+
 ## Countdown
 Objetivo: criar uma página de coming soon (em breve) para o lançamento de um site, produto ou serviço, e na página deve ter um countdown timer (timer de contagem regressiva) informando quanto tempo falta para o lançamento.
 
