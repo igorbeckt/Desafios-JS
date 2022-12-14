@@ -1,6 +1,6 @@
 # RocketShoes
 Desafio "RocketShoes" do Discover da Rocketseat. Neste desafio você deverá desenvolver um mini e-commerce de calçados esportivos. Utilizando HTML, CSS e Javascript
-<img src="https://github.com/igorbeckt/RocketShoes/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-JS/blob/master/Rocket%20Shoes/assets/pronto.png?raw=true">
 **Requisitos para o desafio:**
 
 - Seguir o layout do Figma respeitando as medidas.
