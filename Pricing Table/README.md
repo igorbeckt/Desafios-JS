@@ -1,6 +1,6 @@
 # Pricing-Table
 Desafio "Pricing Table" do Discover da Rocketseat. Neste desafio você vai desenvolver uma página com uma tabela com as opções de preços/planos do produto/serviço.
-<img src="https://github.com/igorbeckt/Pricing-Table/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-JS/blob/master/Pricing%20Table/assets/pronto.png?raw=true">
 # Style Guide
 
 ---
