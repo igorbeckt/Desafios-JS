@@ -1,6 +1,6 @@
 # countdown
 Desafio "Countdown" do Discover da Rocketseat. Neste desafio você deve criar uma página de coming soon (em breve) para o lançamento de um site, produto ou serviço, e na página deve ter um countdown timer (timer de contagem regressiva) informando quanto tempo falta para o lançamento. Utilizando HTML, CSS e Javscript.
-<img src="https://github.com/igorbeckt/countdown/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-JS/blob/master/Countdown/assets/pronto.png?raw=true">
 **Requisitos para o desafio:**
 
 - Para concluir o desafio você deve cumprir alguns requisitos:
