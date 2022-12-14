@@ -1,6 +1,6 @@
 # Sidebar
 Desafio "Sidebar" do Discover da Rocketseat. Neste desafio você deve criar uma sidebar. Quando o usuário clicar no ícone do menu isso deve fazer com que o estado da sidebar mude entre "aberto", mostrando ícones e texto e "fechado", mostrando apenas os ícones. Utilizando HTML, CSS e Javascript.
-<img src="https://github.com/igorbeckt/Sidebar/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-JS/blob/master/Sidebar/assets/pronto.png?raw=true">
 
 **Requisitos para o desafio:**
 
