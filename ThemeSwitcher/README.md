@@ -1,6 +1,6 @@
 # Theme-Switcher
 Desafio "Theme Switcher" do Discover da Rocketseat. Nesse desafio você deverá desenvolver uma página que contenha um toggle para alternar entre o tema dark e light. Utilizando HTML, CSS e Javascript
-<img src="https://github.com/igorbeckt/Theme-Switcher/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-JS/blob/master/ThemeSwitcher/assets/pronto.png?raw=true">
 
 **Requisitos para o desafio:**
 
